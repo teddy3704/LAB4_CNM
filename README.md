@@ -1,4 +1,4 @@
-# Phan Văn Tiến ProMax Blog (Next.js 16 + Supabase)
+# Phan Văn Tiến Blog (Next.js 16 + Supabase)
 
 Production-oriented publishing platform with secure auth, RLS, Markdown rendering, image uploads, moderation, and SEO metadata.
 
